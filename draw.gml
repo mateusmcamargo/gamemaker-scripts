@@ -1,4 +1,4 @@
-//draw_setup(name, sprite, object, [ui_sprite])
+/// @function		draw_setup(font, color, halign, valign);
 /// @description Set the drawing parameters for the draw event
 /// @param font		Font index
 /// @param color	Color value
