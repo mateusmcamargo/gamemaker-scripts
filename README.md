@@ -1,6 +1,8 @@
 # gamemaker-scripts
 ### scripts que eu criei para projetos no gamemaker.
 
+---
+
 ## animation_stop.gml
 ### Controla quando a animação deve parar: imediatamente ou no último frame.
 ### **Estrutura:**
