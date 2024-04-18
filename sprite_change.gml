@@ -3,8 +3,8 @@
 /// @param sprite	The sprite index
 
 // Examples
-//		in the object step event:
-//		sprite_change(spr_player_idle);
+//	in the object step event:
+//	sprite_change(spr_player_idle);
 var _sprite = argument0;
 function sprite_change(_sprite){
 	if (sprite_index != _sprite) {

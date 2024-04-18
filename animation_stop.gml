@@ -3,11 +3,11 @@
 /// @param instant	If true, stops the animation instantly, instead of waiting for animation end
 
 // Examples
-//		in the object step event:
-//		animation_stop(true); /*stops the animation instantly*/
+//	in the object step event:
+//	animation_stop(true); /*stops the animation instantly*/
 //
-//		in the object step event:
-//		animation_stop(false); /*stops the animation and the end of the animation loop*/
+//	in the object step event:
+//	animation_stop(false); /*stops the animation and the end of the animation loop*/
 
 function animation_stop(argument0) {
 
