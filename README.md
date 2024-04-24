@@ -26,7 +26,7 @@
 > - **sprite:**    {sprite}  sprite do item;
 > - **object:**    {object}  objeto do item;
 > - **collected:** {boolean} se foi coletado;
-> - **ui_sprite:** {srpite}  sprite exibido na UI.
+> - **ui_sprite:** {sprite}  sprite exibido na UI.
 
 ## screenshake.gml
 ### cria um efeito de screenshake quando chamado em um objeto próprio
