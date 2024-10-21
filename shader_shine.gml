@@ -36,6 +36,7 @@ switch (global.event_type) {
 		draw_set_alpha(0);
 		draw_rectangle(0, 0, room_width, room_height, false);
 
+  // the mask sprite should be the same size as the object sprite,with the area to be shinny painted white and the area to be matte transparent 
 		draw_set_alpha(1);
 		draw_sprite(spr_diamond_mask, 0, x, y);
 		gpu_set_blendenable(true);
