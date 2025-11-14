@@ -7,7 +7,7 @@
 ### Controla quando a animação deve parar: imediatamente ou no último frame.
 ### **Estrutura:**
 > animation_stop(instant);
-> - **sprite:** {boolean}  se a animação deve parar imediatamente;
+> - **instant:** {boolean}  se a animação deve parar imediatamente;
 
 ## draw.gml
 ### Configura todos os principais parâmetros para o draw event.
