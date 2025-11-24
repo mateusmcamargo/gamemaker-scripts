@@ -1,5 +1,5 @@
 # gamemaker-scripts
-### scripts que eu criei para projetos no gamemaker.
+### alguns scripts que eu criei, outros que adaptei, para projetos no gamemaker.
 
 ---
 
