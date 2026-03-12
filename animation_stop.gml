@@ -13,6 +13,7 @@ function animation_stop(argument0) {
 
 	/*
 	the ??= operator means that if the param is empty, it will asign the specified value value
+	THIS IS DEPRECATED
 	*/
 	argument0??= false;
 	
